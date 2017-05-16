@@ -29,3 +29,4 @@ dependencies {
 
 * 图片操作
 
+* 加密操作
